@@ -1,0 +1,11 @@
+2017-12-08 17:01:49,824[mainapp][INFO] - start program
+2017-12-08 17:01:49,825[uisconv][INFO] - INIT Uisconv
+2017-12-08 17:01:49,825[uisconv][INFO] - PARM of readcfg : uis.conf
+2017-12-08 17:01:49,826[uisconv][INFO] - Read config file successful : uis.conf
+2017-12-08 17:01:49,826[uisconv][INFO] - get parm from ini:  custom.parm / TargetDate : 
+2017-12-08 17:01:49,826[uisconv][INFO] - no parm or section in inifile:  custom.parm / placeorderdate : 
+2017-12-08 17:01:49,826[uisconv][INFO] - get parm from ini:  custom.parm / OriginCSV : D:/Magento2UIS/magento.output/RAW/2017-10-02-13-06-01-AllStore-Order-export-csv-to-ERP.csv
+2017-12-08 17:01:49,826[uisconv][INFO] - get parm from ini:  custom.parm / TrackofDispatch : ZB
+2017-12-08 17:01:49,826[uisconv][INFO] - get parm from ini:  custom.parm / TrackofOrder : ZA
+2017-12-08 17:01:49,826[uisconv][INFO] - get parm from ini:  custom.parm / TargetPath : F:/
+2017-12-08 17:04:35,537[frontend_light][INFO] - Export Directory selected:D:/

@@ -1,0 +1,18 @@
+[custom.parm]
+OriginCSV = D:/Magento2UIS/magento.output/2017-10-03-08-45-52-AllStore-Order-export-csv-to-ERP.csv
+TargetPath = D:/
+TargetDate = 20171003
+TrackofDispatch = ZB
+TrackofOrder = ZA
+
+[direct.store.list]
+STTWTP1001 = 1
+STTWTP1003 = 1
+KPTWTP1001 = 1
+MMTWTP1001 = 1
+MMTWTC1001 = 1
+
+[Auto.Increment]
+ZA20171003 = 11
+ZB20171003 = 3
+
